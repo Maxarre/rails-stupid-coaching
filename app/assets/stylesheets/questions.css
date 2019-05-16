@@ -1,0 +1,44 @@
+a {
+  text-decoration: none;
+  color: #1D72AD;
+}
+
+
+.btn {
+  background-color: #1D72AD;
+  padding: 10px;
+}
+
+.input {
+  height: 25px;
+  width: 400px;
+  border-radius: 5px;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.answer {
+  background-color: #FFFEE1;
+  padding: 5px 20px;
+  margin: 50px 0px;
+}
+
+.question {
+  // background-color: #F4F4F4;
+  padding: 5px 20px;
+}
+
+.border-left {
+  border-left: 5px solid #DDDDDD;
+}
